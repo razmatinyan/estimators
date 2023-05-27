@@ -1,0 +1,84 @@
+.check_block {
+  width: 50px;
+  height: 50px;
+  right: -15%;
+  top: 45%;
+  border: 2px solid rgba(59, 130, 246, 0.5);
+  text-align: center;
+  background: #fff;
+  color: rgba(59, 130, 246, 0.5);
+}
+
+.web-app-bg {
+  background-image: url("../../images/TeamMembersImg/web_app1.png");
+}
+
+.web-app-wrapper:hover .web-app-bg {
+  background-image: url("../../images/TeamMembersImg/web_app2.png");
+}
+
+.web-app-wrapper:hover .web-app-btn {
+  background-color: #841F3B;
+}
+
+.android-bg {
+  background-image: url("../../images/TeamMembersImg/android1.png ");
+}
+
+.android-wrapper:hover .android-bg {
+  background-image: url("../../images/TeamMembersImg/android2.png");
+}
+
+.android-wrapper:hover .android-btn {
+  background-color: #841F3B;
+}
+
+.watch-OS-bg {
+  background-image: url("../../images/TeamMembersImg/watch1.png");
+}
+
+.watch-OS-wrapper:hover .watch-OS-bg {
+  background-image: url("../../images/TeamMembersImg/watch2.png");
+}
+
+.watch-OS-wrapper:hover .watch-OS-btn {
+  background-color: #016189;
+}
+
+.iOS-bg {
+  background-image: url("../../images/TeamMembersImg/ios1.png");
+}
+
+.iOS-wrapper:hover .iOS-bg {
+  background-image: url("../../images/TeamMembersImg/ios2.png");
+}
+
+.iOS-wrapper:hover .iOS-btn {
+  background-color: #016189;
+}
+
+.desktop-bg {
+  background-image: url("../../images/TeamMembersImg/desktop1.png");
+}
+
+.desktop-wrapper:hover .desktop-bg {
+  background-image: url("../../images/TeamMembersImg/desktop2.png");
+}
+
+.desktop-wrapper:hover .desktop-btn {
+  background-color: #016189;
+}
+
+.iOS-android-bg {
+  background-image: url("../../images/TeamMembersImg/ios_android1.png");
+}
+
+.iOS-android-wrapper:hover .iOS-android-bg {
+  background-image: url("../../images/TeamMembersImg/ios_android2.png");
+}
+
+.iOS-android-wrapper:hover .iOS-android-btn {
+  background-color: #841F3B;
+}
+.text-block{
+}

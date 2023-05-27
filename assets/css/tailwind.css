@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+/*:root {*/
+/*  --bg-background-mainGrayBg: #F3F4F6;*/
+/*  --bg-background-mainBlueBg: #016189;*/
+/*}*/
+
+.theme-light {
+  --bg-background-mainWhiteBg: #fff;
+  --bg-background-mainGrayBg: #f3f4f6;
+  --bg-background-mainBlueBg: #016189;
+  --bg-background-mainredBg: #841f3b;
+  --text-copy-blue: #016189;
+}
+
+.theme-dark {
+  --bg-background-mainWhiteBg: #1a3045;
+  --bg-background-mainGrayBg: #1a3045;
+  --bg-background-mainBlueBg: #1a3045;
+
+  --text-copy-white: #fff;
+}
